@@ -11,6 +11,7 @@ payload:
   - DOMAIN,emby.enjoyit.eu.org
   - DOMAIN,emby.lcloud.wiki
   - DOMAIN,notnetflix.cos.cat
+  - DOMAIN-SUFFIX,cc.embycc.link
   - DOMAIN-SUFFIX,123456.al
   - DOMAIN-SUFFIX,285286.xyz
   - DOMAIN-SUFFIX,agahk1.jmsooo.com
